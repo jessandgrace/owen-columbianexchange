@@ -17,4 +17,4 @@ This project uses RFID technology to demonstrate the Columbian Exchange. An RFID
 - We wrote simple text panels to convey the instructions and information about the Columbian Exchange. 
 
 ## The Results:
-Overall, we were quite pleased with how the project turned out. It's a fun and "educational" project that quickly demonstrates how the Columbian 
+Overall, we were quite pleased with how the project turned out. It's a fun and educational project that quickly demonstrates how the Columbian Exchange works. With more time and resources, we would be able to make a more polished and functional display. One that looks a little less like a high school science project. It was great to apply the skills and knowledge we had learned throughout the semester on Processing, Phidgets, and vinyl cutting. 
